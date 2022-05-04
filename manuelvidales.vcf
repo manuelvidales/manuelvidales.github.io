@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vidales;Manuel;;;
+FN:Manuel Vidales
+ORG:
+TITLE:Desarrollador Web & SysAdmin
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=WORK:virmanuel@gmail.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Location:https://osm.org/go/TpkB_Al-?node=273615025
+URL;TYPE=Telegram:https://t.me/virumaap
+URL;TYPE=GitHub:https://github.com/manuelvidales
+URL;TYPE=LinkedIn:https://linkedin.com/in/manuelvidales
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100332449
+END:VCARD
